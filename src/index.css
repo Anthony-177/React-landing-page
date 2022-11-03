@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: rgb(58, 36, 10);
+	background-size: cover;
+	background-position: top center;
+}
